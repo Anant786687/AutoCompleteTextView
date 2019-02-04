@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView</string>
+
+    <string-array name="country">
+
+        <item>Afghanistan</item>
+        <item>Albania</item>
+        <item>Algeria</item>
+        <item>Andorra</item>
+        <item>Angola</item>
+        <item>Anguilla</item>
+        <item>Antigua &amp; Barbuda</item>
+        <item>Argentina</item>
+        <item>Armenia</item>
+        <item>Australia</item>
+        <item>Austria</item>
+        <item>Azerbaijan</item>
+        <item>Bahamas</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Barbados</item>
+        <item>Belarus</item>
+        <item>Belgium</item>
+        <item>Belize</item>
+        <item>Benin</item>
+        <item>Bermuda</item>
+        <item>Bhutan</item>
+        <item>Bolivia</item>
+        <item>Bosnia &amp; Herzegovina</item>
+        <item>Botswana</item>
+        <item>Brazil</item>
+        <item>Brunei Darussalam</item>
+        <item>Bulgaria</item>
+        <item>Burkina Faso</item>
+        <item>Burundi</item>
+        <item>Cambodia</item>
+        <item>Cameroon</item>
+        <item>Canada</item>
+        <item>Cape Verde</item>
+        <item>Cayman Islands</item>
+        <item>Central African Republic</item>
+        <item>Chad</item>
+        <item>Chile</item>
+        <item>China</item>
+        <item>China - Hong Kong / Macau</item>
+        <item>Colombia</item>
+        <item>Comoros</item>
+        <item>Congo</item>
+        <item>Congo, Democratic Republic of (DRC)</item>
+        <item>Costa Rica</item>
+        <item>Croatia</item>
+        <item>Cuba</item>
+        <item>Cyprus</item>
+        <item>Czech Republic</item>
+        <item>Denmark</item>
+        <item>Djibouti</item>
+        <item>Dominica</item>
+    </string-array>
+    <string name="ecn" translatable="false">Enter Country Name</string>
+</resources>
